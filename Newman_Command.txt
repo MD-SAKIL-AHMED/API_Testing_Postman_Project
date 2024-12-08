@@ -1,0 +1,5 @@
+
+
+newman run Booking_api.postman_collection.json -e Booking_api.postman_environment.json -r cli,html
+
+newman run Booking_api.postman_collection.json -e Booking_api.postman_environment.json -r cli,htmlextra
